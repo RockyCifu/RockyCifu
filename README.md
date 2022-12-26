@@ -21,13 +21,13 @@ Spring Tool Suite, Socket.io, Axios, REST API, JSON, PostMan, AWS(EC2), Git
 - Hashed user passwords with BCrypt to secure their credentials and improve security
 - Integrated Google Civics API to retrieve location specific information based on the user’s zip code  
 
-**Code Names | Full-Stack Developer**
+**Code Names | Full-Stack Developer**  
 *Multiplayer game inspired by the popular game Code Names | JavaScript, Socket.io, React, Express*  
 - Implemented bidirectional and event-based communication using Socket.io to enable multiplayer gameplay
 - Optimized an Express server to handle the game’s state and broadcast the changes to all the subscribed sockets
 - Developed modular React components to display the game in a user friendly interface  
 
-**Squid Games | Full-Stack Developer**
+**Squid Games | Full-Stack Developer**  
 *Sandbox application for expanding knowledge of advanced technologies | JavaScript, TypeScript, React, React Query, Express*
 - Enabled TypeScript for better type safety across the full application preventing unforeseen bugs
 - Used React Query to cache database queries and maintain reloading of data as needed
